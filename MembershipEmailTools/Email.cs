@@ -29,5 +29,6 @@ namespace MembershipEmailTools
 
             emailService.SendEmail(member.username, "user@example.com", subject, body);
         }
+
     }
 }

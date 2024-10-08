@@ -42,3 +42,9 @@ C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagement.API\
 C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagement.API\obj\Debug\net8.0\MembershipManagement.API.pdb
 C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagement.API\obj\Debug\net8.0\MembershipManagement.API.genruntimeconfig.cache
 C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagement.API\obj\Debug\net8.0\ref\MembershipManagement.API.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagement.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagement.API\bin\Debug\net8.0\MailKit.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagement.API\bin\Debug\net8.0\MimeKit.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagement.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagement.API\bin\Debug\net8.0\MembershipEmailTools.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagement.API\bin\Debug\net8.0\MembershipEmailTools.pdb

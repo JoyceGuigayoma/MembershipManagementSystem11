@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MembershipEmailTools\MembershipEmailTools.csproj" />
     <ProjectReference Include="..\MembershipManagementData\MembershipManagementData.csproj" />
     <ProjectReference Include="..\MembershipManagementModels\MembershipManagementModels.csproj" />
   </ItemGroup>

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\bin\Debug\net8.0\MembershipManagementData.deps.json
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\bin\Debug\net8.0\MembershipManagementData.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\bin\Debug\net8.0\MembershipManagementData.pdb
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\bin\Debug\net8.0\MembershipManagementModels.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\bin\Debug\net8.0\MembershipManagementModels.pdb
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\obj\Debug\net8.0\MembershipManagementData.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\obj\Debug\net8.0\MembershipManagementData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\obj\Debug\net8.0\MembershipManagementData.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\obj\Debug\net8.0\MembershipManagementData.AssemblyInfo.cs
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\obj\Debug\net8.0\MembershipManagementData.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\obj\Debug\net8.0\Membersh.F179CA9D.Up2Date
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\obj\Debug\net8.0\MembershipManagementData.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\obj\Debug\net8.0\refint\MembershipManagementData.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\obj\Debug\net8.0\MembershipManagementData.pdb
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementData\obj\Debug\net8.0\ref\MembershipManagementData.dll

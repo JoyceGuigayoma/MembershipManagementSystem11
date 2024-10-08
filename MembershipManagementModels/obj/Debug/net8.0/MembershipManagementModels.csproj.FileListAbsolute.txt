@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementModels\bin\Debug\net8.0\MembershipManagementModels.deps.json
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementModels\bin\Debug\net8.0\MembershipManagementModels.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementModels\bin\Debug\net8.0\MembershipManagementModels.pdb
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementModels\obj\Debug\net8.0\MembershipManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementModels\obj\Debug\net8.0\MembershipManagementModels.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementModels\obj\Debug\net8.0\MembershipManagementModels.AssemblyInfo.cs
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementModels\obj\Debug\net8.0\MembershipManagementModels.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementModels\obj\Debug\net8.0\MembershipManagementModels.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementModels\obj\Debug\net8.0\refint\MembershipManagementModels.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementModels\obj\Debug\net8.0\MembershipManagementModels.pdb
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipManagementModels\obj\Debug\net8.0\ref\MembershipManagementModels.dll

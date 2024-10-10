@@ -13,3 +13,4 @@ C:\Users\User\source\repos\MembershipManagementSystem1\MembershipEmailTools\obj\
 C:\Users\User\source\repos\MembershipManagementSystem1\MembershipEmailTools\obj\Debug\net8.0\refint\MembershipEmailTools.dll
 C:\Users\User\source\repos\MembershipManagementSystem1\MembershipEmailTools\obj\Debug\net8.0\MembershipEmailTools.pdb
 C:\Users\User\source\repos\MembershipManagementSystem1\MembershipEmailTools\obj\Debug\net8.0\ref\MembershipEmailTools.dll
+C:\Users\User\source\repos\MembershipManagementSystem1\MembershipEmailTools\obj\Debug\net8.0\MembershipEmailTools.sourcelink.json

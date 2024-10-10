@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MembershipEmailTools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52d2328a568e4a0aa28a334eaaafc9ccc9cc7639")]
 [assembly: System.Reflection.AssemblyProductAttribute("MembershipEmailTools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MembershipEmailTools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
